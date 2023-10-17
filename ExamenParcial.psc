@@ -108,7 +108,7 @@ Algoritmo ExamenParcial
 								Escribir Valor2
 								Leer Variable2
 							Hasta Que Variable2 <> 0
-							indice = variable1 ^ 1/variable2
+							indice = variable1 ^ (1/variable2)
 							operacion = indice
 						FinSi
 					FinSi
